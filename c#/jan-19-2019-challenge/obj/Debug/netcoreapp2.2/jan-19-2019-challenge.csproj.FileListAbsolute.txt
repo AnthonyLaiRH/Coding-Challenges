@@ -1,0 +1,11 @@
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\obj\Debug\netcoreapp2.2\jan-19-2019-challenge.csprojAssemblyReference.cache
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\obj\Debug\netcoreapp2.2\jan-19-2019-challenge.csproj.CoreCompileInputs.cache
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\obj\Debug\netcoreapp2.2\jan-19-2019-challenge.AssemblyInfoInputs.cache
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\obj\Debug\netcoreapp2.2\jan-19-2019-challenge.AssemblyInfo.cs
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\bin\Debug\netcoreapp2.2\jan-19-2019-challenge.deps.json
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\bin\Debug\netcoreapp2.2\jan-19-2019-challenge.runtimeconfig.json
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\bin\Debug\netcoreapp2.2\jan-19-2019-challenge.runtimeconfig.dev.json
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\bin\Debug\netcoreapp2.2\jan-19-2019-challenge.dll
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\bin\Debug\netcoreapp2.2\jan-19-2019-challenge.pdb
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\obj\Debug\netcoreapp2.2\jan-19-2019-challenge.dll
+C:\Users\surface book\Documents\Code\daily-coding\c#\jan-19-2019-challenge\obj\Debug\netcoreapp2.2\jan-19-2019-challenge.pdb
