@@ -59,7 +59,7 @@ if __name__ == '__main__':
 
 
 def fruitsBasketv2(t):
-    start, max = 0, 0
+    start, longest = 0, 0
     d = {}
 
     for end in range(len(t)):
@@ -78,6 +78,6 @@ def fruitsBasketv2(t):
 
             start += 1
 
-        max = max(max, end-start+1)
+        longest = max(max, end-start+1)
 
-    return max
+    return longest
